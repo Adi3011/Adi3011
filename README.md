@@ -32,7 +32,7 @@ Love to solve complex things in simple ways.
 
 **Talking about Personal Stuffs:**
 
-- 📈I'm currently pursuing my Machine Learning.
+- 📈I'm currently pursuing my Bachelor's in Computer Science.
 - 💻I love innovating new things which can transform the living.
 - 🤓Making new things learning new stuffs.
 - 👨🏻‍💻I do competitive programming and love ML, DL and DS.
